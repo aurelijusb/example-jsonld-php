@@ -22,6 +22,12 @@ Install/usage
 Open with browser.
 Alternative: `php index.php`
 
+References
+----------
+
+* [Slides](http://aurelijus.banelis.lt/prezentations/jsonld/jsonld-2015.pdf)
+* [JsonLd library](https://github.com/lanthaler/JsonLD)
+
 Author
 ------
 Aurelijus Banelis
