@@ -22,6 +22,14 @@ Install/usage
 Open with browser.
 Alternative: `php index.php`
 
+
+Functionality
+-------------
+
+* Including context, so script would work offline
+* Printing expanded version of JSON-LD file
+* Printing NQuads version of JSON-LD file
+
 Author
 ------
 Aurelijus Banelis
