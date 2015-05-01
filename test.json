@@ -1,0 +1,17 @@
+{
+  "@context": "http://auginte.com/ns/s.jsonld",
+  "nodes": [
+    {
+      "@id": "gn:12345",
+      "posX": 12,
+      "posY": 14,
+      "parent": null
+    },
+    {
+      "@id": "gn:2",
+      "posX": 15,
+      "posY": 16,
+      "parent": "gn:12345"
+    }
+  ]
+}
